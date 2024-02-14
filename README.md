@@ -2,7 +2,7 @@
 > As of 06/02/24, Vendetta and related projects have been discontinued.
 
 # VendettaTweak
-
+vsavaawfwafs
 A rootful/rootless tweak to inject Vendetta into Discord.
 
 ## Installation
